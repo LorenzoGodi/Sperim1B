@@ -10,6 +10,10 @@ Codice e dati delle esperienze di laboratorio di Sperimentazioni di Fisica 1
 
 ## Esperienze 
 
+### Estensimetro
+- Per visualizzare il Jupyter Notebook con il codice, vai [qui](https://github.com/LorenzoGodi/Sperim1B/blob/main/Estensimetro/Estensimetro.ipynb).
+- Per la cartella completa con codice e dati, vai [qui](https://github.com/LorenzoGodi/Sperim1B/tree/main/Estensimetro). 
+
 ### Guidovia
 - Per visualizzare il Jupyter Notebook con il codice, vai [qui](https://github.com/LorenzoGodi/Sperim1B/blob/main/Guidovia/Guidovia.ipynb).
 - Per la cartella completa con codice e dati, vai [qui](https://github.com/LorenzoGodi/Sperim1B/tree/main/Guidovia).
