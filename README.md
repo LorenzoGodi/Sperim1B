@@ -17,3 +17,7 @@ Codice e dati delle esperienze di laboratorio di Sperimentazioni di Fisica 1
 ### Guidovia
 - Per visualizzare il Jupyter Notebook con il codice, vai [qui](https://github.com/LorenzoGodi/Sperim1B/blob/main/Guidovia/Guidovia.ipynb).
 - Per la cartella completa con codice e dati, vai [qui](https://github.com/LorenzoGodi/Sperim1B/tree/main/Guidovia).
+
+### Pendolo Kater
+- <!--Per visualizzare il Jupyter Notebook con il codice, vai [qui](https://github.com/LorenzoGodi/Sperim1B/blob/main/Guidovia/Guidovia.ipynb).-->
+- Per la cartella completa con codice e dati, vai [qui](https://github.com/LorenzoGodi/Sperim1B/tree/main/Pendolo).
