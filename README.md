@@ -21,3 +21,8 @@ Codice e dati delle esperienze di laboratorio di Sperimentazioni di Fisica 1
 ### Pendolo Kater
 - Per visualizzare il Jupyter Notebook con il codice, vai [qui](https://github.com/LorenzoGodi/Sperim1B/blob/main/Pendolo/Pendolo.ipynb).
 - Per la cartella completa con codice e dati, vai [qui](https://github.com/LorenzoGodi/Sperim1B/tree/main/Pendolo).
+
+
+### Volano
+- Per visualizzare il Jupyter Notebook con il codice, vai [qui](https://github.com/LorenzoGodi/Sperim1B/blob/main/Volano/Volano.ipynb).
+- Per la cartella completa con codice e dati, vai [qui](https://github.com/LorenzoGodi/Sperim1B/tree/main/Volano).
