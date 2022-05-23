@@ -26,3 +26,8 @@ Codice e dati delle esperienze di laboratorio di Sperimentazioni di Fisica 1
 ### Volano
 - Per visualizzare il Jupyter Notebook con il codice, vai [qui](https://github.com/LorenzoGodi/Sperim1B/blob/main/Volano/Volano.ipynb).
 - Per la cartella completa con codice e dati, vai [qui](https://github.com/LorenzoGodi/Sperim1B/tree/main/Volano).
+
+
+### Viscosimetro
+- Per visualizzare il Jupyter Notebook con il codice, vai [qui](https://github.com/LorenzoGodi/Sperim1B/blob/main/Viscosimetro/Viscosimetro.ipynb).
+- Per la cartella completa con codice e dati, vai [qui](https://github.com/LorenzoGodi/Sperim1B/tree/main/Viscosimetro).
